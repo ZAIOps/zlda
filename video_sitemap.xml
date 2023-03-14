@@ -4,7 +4,7 @@
    <url>
      <loc>https://zaiops.github.io/zlda/</loc>
      <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Challenges in mainframe operations</video:title>
        <video:description>
          This video shows why you need AIOps in mainframe operations, the future trend of AIOps, and why you need IBM Z Operational Log and Data Analytics.
@@ -14,7 +14,7 @@
        </video:content_loc>
      </video:video>
      <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Overview of IBM Z Operational Log and Data Analytics </video:title>
        <video:description>
          This video shows the product features and benefits of IBM Z Operational Log and Data Analytics.
@@ -24,7 +24,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Deep dive into IBM Z Operational Log and Data Analytics</video:title>
        <video:description>
          This video shows how data flows through different components including ZCDP and the analytics platforms, and how to collect a specific data type to analyze CPU usage, which is a critical metric for IT operations.
@@ -34,7 +34,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Platforms introduction</video:title>
        <video:description>
          This video shows the supported analytics platforms and data consumers like Z Data Analytics platform, Splunk, and the Elastic Stack.
@@ -44,7 +44,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Deploy the Z Operational Log and Data Analytics application on the Elastic Stack</video:title>
        <video:description>
          This video shows how to deploy the IBM Z Operational Log and Data Analytics application on the Elastic Stack platform.
@@ -54,7 +54,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Deploy the Z Operational Log and Data Analytics application on Splunk</video:title>
        <video:description>
          This video shows how to deploy the IBM Z Operational Log and Data Analytics application on Splunk. 
@@ -64,7 +64,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Deploy the Z Common Data Provider</video:title>
        <video:description>
          This video introduces the steps required to deploy the Z Common Data Provider.
@@ -74,7 +74,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Set up the Configuration Tool on Liberty</video:title>
        <video:description>
          This video introduces how to set up the Configuration Tool on Liberty
@@ -84,7 +84,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Set up the Configuration Tool on z/OSMF</video:title>
        <video:description>
          This video introduces how to set up the Configuration Tool on z/OSMF
@@ -94,7 +94,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Create a policy to stream operational data to analytics platforms</video:title>
        <video:description>
          This video introduces how to create a policy to stream operational data to analytics platforms
@@ -104,7 +104,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Configure and start the Data Streamer and data gatherers </video:title>
        <video:description>
          This video introduces how to configure and start the Data Streamer and data gatherers.
@@ -114,7 +114,7 @@
        </video:content_loc>
      </video:video>
 	 <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Access the Z Data Analytics platform</video:title>
        <video:description>
          This video shows how to view streamed operational data via predefined dashboards and saved searches in the Z Data Analytics platform web interface.
@@ -124,7 +124,7 @@
        </video:content_loc>
      </video:video>
 	  <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Access the Kibana web interface</video:title>
        <video:description>
          This video shows how to view streamed operational data via predefined dashboards and saved searches in the Kibana web interface.
@@ -134,7 +134,7 @@
        </video:content_loc>
      </video:video>
 	  <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Access the Splunk web interface</video:title>
        <video:description>
          This video shows how to view streamed operational data via predefined dashboards and saved searches in Splunk web interface. 
@@ -144,7 +144,7 @@
        </video:content_loc>
      </video:video>
 	  <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>View events and insights on the Problem Insights GUI</video:title>
        <video:description>
          This video shows how to view events and insights on the Problem Insights GUI.
@@ -154,7 +154,7 @@
        </video:content_loc>
      </video:video>
 	  <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>CICS transaction performance data visualization and response time anomaly diagnosis</video:title>
        <video:description>
          This video will introduce a typical use case of IBM Z Operational Log and Data Analytics - CICS transaction performance data visualization and response time anomaly diagnosis.
@@ -164,7 +164,7 @@
        </video:content_loc>
      </video:video>
 	  <video:video>
-	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.PNG</video:thumbnail_loc>
+	   <video:thumbnail_loc>https://zaiops.github.io/zlda/videos.png</video:thumbnail_loc>
        <video:title>Create a custom dashboard to show z/OS syslog messages on ZDAP</video:title>
        <video:description>
          This video provides step-by-step instructions on creating a custom dashboard for analyzing messages from the z/OS syslog. 
